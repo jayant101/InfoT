@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/mtrl_layout_snackbar.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_aspect_ratio.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_aspect_ratio.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_layout_scale_wheel.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_activity_photobox.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_activity_photobox.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_fragment_photobox.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_fragment_photobox.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_layout_rotate_wheel.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_view.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_view.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/ucrop_controls.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/layout/ucrop_controls.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/layout/select_dialog_singlechoice_material.xml"
+    }
+]

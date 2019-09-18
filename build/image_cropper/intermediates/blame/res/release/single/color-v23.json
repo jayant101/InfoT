@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087859218338",
+    "firebase_url": "https://infotech-8fc77.firebaseio.com",
+    "project_id": "infotech-8fc77",
+    "storage_bucket": "infotech-8fc77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087859218338:android:b7999ddd5e456dab",
+        "android_client_info": {
+          "package_name": "com.example.infotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087859218338-7oi792ninmftat3b2djn3sid449tg4ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infotech",
+            "certificate_hash": "3fd40e2f70a86e3a28db671bc072d25d9a6eda51"
+          }
+        },
+        {
+          "client_id": "1087859218338-mllqqrmt9cbq0k34bq2c15b4621va2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwELqnqKoNl0nbfVnbPsL6XN-sf8_ebkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087859218338-mllqqrmt9cbq0k34bq2c15b4621va2v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

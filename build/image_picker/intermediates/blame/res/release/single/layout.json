@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_picker/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/fb966bcff55c64c7ec2058382b0d9e93/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_picker/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/fb966bcff55c64c7ec2058382b0d9e93/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_picker/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/fb966bcff55c64c7ec2058382b0d9e93/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_picker/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/fb966bcff55c64c7ec2058382b0d9e93/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_picker/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/fb966bcff55c64c7ec2058382b0d9e93/res/layout/notification_template_icon_group.xml"
+    }
+]

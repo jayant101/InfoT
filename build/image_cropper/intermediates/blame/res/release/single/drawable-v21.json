@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/74f502b68e5b303bf1490f42bb4a0621/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/97e54171409e88920c4f5a11de5659b8/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

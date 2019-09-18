@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/design_fab_hide_motion_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/design_fab_show_motion_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a4bb3400b46cbb6f853599a2ba322110/res/animator/mtrl_fab_hide_motion_spec.xml"
+    }
+]

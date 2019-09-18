@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/jayant/Desktop/infotech/build/image_cropper/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/jayant/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/e09ae6acf54152fc919df34ecfe1330b/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    }
+]
