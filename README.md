@@ -1,5 +1,8 @@
 # infotech
 
+Download the app from :- 
+https://drive.google.com/file/d/1GQv9EhQnFGniJFpjCZ_kKggs0E4yPWh6/view?usp=sharing
+
 A new Flutter project.
 
 ## Getting Started
